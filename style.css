@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    background-image: url("https://img.freepik.com/free-vector/gradient-geometric-blue-technology-background_52683-78527.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+.main{
+    display: inline-block;
+    margin-left: 35%;
+}
+.main:hover{
+    color: rgb(199, 199, 15);
+}
+#heading{
+    text-align: center;
+}
+input{
+    margin-left: 0px;
+    height: 20px;
+    border-radius: 7px;
+}
+.one:hover{
+    transform: scale(1.2);
+}
+#fname,#Email{
+    margin-left: 100px;
+    border-radius: 7px;
+}
+#pass{
+    margin-left: 75px;
+    border-radius: 7px;
+}
+#dob{
+    margin-left: 50px;
+    border-radius: 7px;
+}
+#Age{
+    margin-left: 110px;
+}
+#Male{
+    margin-left: 90px;
+}
+
+.terms{
+    margin-left: 140px;
+}
+button{
+    margin-left: 200px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(199, 199, 15);
+    transform: scale(1.2);
+}
